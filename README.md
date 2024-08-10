@@ -7,7 +7,7 @@ Follow these steps to get started:
    - Select **Download ZIP**.
 
 2. **Download the FFmpeg Package:**
-   - Visit [this link](https://drive.google.com/file/d/1Qjae1rfWP5Qe-jz4FTuh5cTKVDk7oqW1/view?usp=sharing) to download the FFmpeg package.
+   - Visit <a href="https://drive.google.com/file/d/1Qjae1rfWP5Qe-jz4FTuh5cTKVDk7oqW1/view?usp=sharing" target="_blank">this link</a> to download the FFmpeg package.
 
 3. **Extract the Files:**
    - Extract the downloaded **yt-downloader-master** ZIP file.
